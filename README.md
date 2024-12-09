@@ -1,0 +1,6 @@
+- 👋 message = "Hello, User!"
+- 👀 interests = ["Programming", "Electronics", "Crafting & Building"]
+- 🌱 learning = ["C++", "JS"]
+- 💞️ collaborates = ["", ""]
+- 😄 pronouns = "He/Him"
+- ⚡ funFact = False
