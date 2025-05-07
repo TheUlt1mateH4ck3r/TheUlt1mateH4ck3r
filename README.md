@@ -1,6 +1,6 @@
 - 👋 message = "Hello, User!"
-- 👀 interests = ["Programming", "Electronics", "Crafting & Building"]
-- 🌱 learning = ["C++", "JS"]
-- 💞️ collaborates = ["Unblocked Gaming Websites", "Pico & such"]
+- 👀 interests = ["PROGRAMMING", "ELECTRONICS", "MINECRAFT"]
+- 💻 languages = ["PYTHON", "JAVA", "HTML", "CSS"]
+- 🌱 learning = ["C++", "JAVASCRIPT"]
 - 😄 pronouns = "He/Him"
-- ⚡ funFact = False
+- ⚡ funFact = "I have owned 18 Raspberry Pi computers!"
